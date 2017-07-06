@@ -1,0 +1,34 @@
+Ashleys-iMac:DojoAssignments TheUtus$ ls -R
+IOS		Python		WebFundamentals
+Mean		Ruby		netCore
+
+./IOS:
+about.txt
+
+./Mean:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./WebFundamentals:
+CSS		Git		HTML		JAVASCRIPT	about.txt
+
+./WebFundamentals/CSS:
+about.txt
+
+./WebFundamentals/Git:
+about.txt
+
+./WebFundamentals/HTML:
+about.txt		indentation.html
+
+./WebFundamentals/JAVASCRIPT:
+about.txt
+
+./netCore:
+about.txt
+Ashleys-iMac:DojoAssignments TheUtus$ 
